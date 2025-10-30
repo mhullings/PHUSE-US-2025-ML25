@@ -1,3 +1,5 @@
-# mel
-Mel personal coding projects
-Includes public data only
+# PHUSE-US-2025 Conference Presentation
+This repository contains the slides for my talk "GPT-Powered Data Insights: Advancing Clinical Data Analytics with Large Language Models (LLMs)" at PHUSE US 2025 on Mar 19, 2025 in Orlando, Florida.
+
+# Abstract
+This presentation explores how Large Language Models (LLMs) can revolutionize data analytics. We demonstrate LLMs' capabilities in integrating and analyzing information from diverse formats. Our focus is on leveraging GPT technology to enhance clinical data exploration and interpretation, facilitating rapid knowledge extraction, visualization, analysis, and data-driven decision-making. We showcase approaches for automated data processing, interactive analysis, and advanced visualization techniques. Crucially, we address the validation of AI-generated insights, presenting methodologies for ensuring result accuracy and reliability. This includes comparative analysis with traditional statistical methods, domain expert verification, and the implementation of explainable AI techniques. Our innovative approach streamlines analytical processes, improves data interpretation, and uncovers quick insights in clinical research, contributing to more efficient drug development and improved patient outcomes.
